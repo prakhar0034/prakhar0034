@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prakhar Agarwal</h1>
+<h1 align="center">Hi 👋 I'm Prakhar Agarwal</h1>
 <h3 align="center">I'm a passionate data analyst, developer, and AI/ML enthusiast dedicated to transforming data into impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar0034&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar0034" /> </p>
